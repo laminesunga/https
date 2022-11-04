@@ -21,7 +21,7 @@ https
     app
    )
   .listen(3000, ()=>{
-    console.log('server is runing at port 3000')
+    console.log('server is runing at port 3000  https://localhost:3000')
   });
 
 // Create an try point route for the Express app listening on port 4000.
